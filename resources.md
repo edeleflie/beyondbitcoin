@@ -11,6 +11,8 @@ One of the more prolific and well regarded commentators - a collection of trnscr
 
 -[Satoshi's White Paper](https://bitcoin.org/bitcoin.pdf)
 
+-[Comments by Balaji S. Srinivasan] (https://medium.com/search?q=Balaji%20S.%20Srinivasan&ref=opensearch)
+
 
 - [The Book of Satoshi _edited by Phil Champagne_](https://www.amazon.com/Book-Satoshi-Collected-Writings-Nakamoto/dp/0996061312/ref=sr_1_1?s=books&ie=UTF8&qid=1507518030&sr=1-1&keywords=satoshi) (On Amazon and Audible)
 
