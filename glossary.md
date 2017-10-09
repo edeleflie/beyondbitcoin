@@ -1,6 +1,6 @@
 # A Glossary of Essential/Found Cryptocurrency Terms.
 
-## Blockchain.
+## Blockchain. Is a distributed ledger
 
 ## Bitcoin.
 
